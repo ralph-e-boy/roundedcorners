@@ -7,4 +7,6 @@ It's not really a very re-usable component unless one's needs are simple and the
 
 
 ![here is a screenshot](https://github.com/ralph-e-boy/roundedcorners/blob/master/roundedcorners.png)
+<br/>
 
+<img src="https://github.com/ralph-e-boy/roundedcorners/blob/master/roundedcorners.png">
